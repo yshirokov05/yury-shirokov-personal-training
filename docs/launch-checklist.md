@@ -15,7 +15,7 @@ This is a practical checklist, not legal or tax advice. Confirm requirements for
 - [ ] Set up a separate business bank account and bookkeeping workflow. Record income and expenses; ask a tax professional about federal/state estimated taxes and recordkeeping.
 - [ ] Create a secure process for completed health history and screening forms. Limit access; do not collect these through the public website, public email, GitHub, or ordinary text. Set a retention and deletion schedule.
 - [ ] Finalize your session length, prices, service radius, travel fee, payment method, package terms, and cancellation policy.
-- [ ] Add a business contact email or booking link to the website and test it.
+- [x] Add the current business contact email to the website; test the mail link before launch.
 - [ ] Replace or add your own training photos only with permission from any identifiable client. Get signed, separate photo/testimonial permission.
 - [ ] Ask for honest client reviews; do not invent testimonials or imply results are typical.
 - [ ] Keep incident notes and notify your insurer promptly when an injury or claim occurs.

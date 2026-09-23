@@ -9,7 +9,7 @@ Open `index.html` in a browser. No build step is required.
 ## Before publishing
 
 - Add a business email or booking link to the contact section and test it.
-- Replace the stylized training-photo panel with original coaching photos in `assets/` when available. The current headshot is Yury's public GitHub profile image.
+- Add additional original coaching photos to `assets/` as you collect them. The current page uses the photo Yury provided.
 - Add testimonials only after the client approves the exact quote and gives written permission.
 - Confirm service area, rates, availability, session duration, and payment process.
 - Review all client documents with a California attorney and the relevant insurer.

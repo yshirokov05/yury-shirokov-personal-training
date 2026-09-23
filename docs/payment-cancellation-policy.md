@@ -7,10 +7,10 @@ Review and fill in all bracketed details before offering this policy to clients.
 
 ## Sessions and payment
 
-- Session length: **50 minutes** (confirm and use consistently).
-- Current rates and any package price are agreed in writing before booking.
+- Session length: **60 minutes**.
+- Online Zoom session: **$45 per 60-minute session**.\n- In-person session: **$60 per 60-minute session** within West Side San Jose, Los Gatos, Saratoga, Santa Clara, Campbell, and Cupertino. Any travel fee outside this area must be agreed in writing before booking.\n- Partner-training rate is quoted and agreed in writing before booking.\n- If packages are offered later, disclose the total price, per-session rate, expiry, and refund terms in writing before purchase.
 - Sessions are paid **in advance** through [payment method]. A booking is confirmed once payment is received.
-- A package is paid before the first session and is valid for **90 days** from purchase, unless a different period is stated in writing.
+- Any package offered is paid before the first session and follows the written terms provided at purchase.
 - Any travel fee or expanded service-area fee is agreed before booking.
 - No automatic recurring charge is made without separate written authorization.
 

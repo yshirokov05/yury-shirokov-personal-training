@@ -8,10 +8,10 @@ Open `index.html` in a browser. No build step is required.
 
 ## Before publishing
 
-- Add a business email or booking link to the contact section and test it.
+- Test the email link in the contact section before launch.
 - Add additional original coaching photos to `assets/` as you collect them. The current page uses the photo Yury provided.
 - Add testimonials only after the client approves the exact quote and gives written permission.
-- Confirm service area, rates, availability, session duration, and payment process.
+- Confirm availability and payment process.
 - Review all client documents with a California attorney and the relevant insurer.
 - Set up secure, private client onboarding. Do not store completed health, emergency-contact, waiver, or consent forms in this repository.
 

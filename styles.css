@@ -194,6 +194,26 @@ footer {
 footer .brand { font-size: 14px; }
 footer .brand span { font-size: 12px; }
 
+.steps, .faq-list { max-width: 720px; }
+.steps { display: grid; gap: 16px; }
+.step {
+  display: grid;
+  grid-template-columns: 36px minmax(0, 1fr);
+  gap: 14px;
+  align-items: start;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--line);
+}
+.step:last-child { padding-bottom: 0; border-bottom: 0; }
+.step-number { color: var(--accent); font-size: 12px; font-weight: 700; letter-spacing: .05em; }
+.step h3 { margin: 0 0 5px; font-size: 16px; letter-spacing: -.01em; }
+.step p { margin: 0; color: var(--body); font-size: 14px; }
+.faq-list details { padding: 15px 0; border-top: 1px solid var(--line); color: var(--body); }
+.faq-list details:last-child { border-bottom: 1px solid var(--line); }
+.faq-list summary { color: var(--ink); cursor: pointer; font-weight: 600; }
+.faq-list summary:focus-visible { outline: 3px solid #86a66f; outline-offset: 4px; }
+.faq-list details p { margin: 9px 0 0; font-size: 14px; }
+
 @media (max-width: 760px) {
   .site-header, main, footer { width: min(100% - 36px, 600px); }
   .site-header { min-height: 68px; }
